@@ -1,3 +1,29 @@
 {
-    "id": "5OujiNUIR"
+    "id": "5OujiNUIR",
+    "name": "Goa game hack",
+    "product": "livechat",
+    "blocks": {
+        "authorization": {
+            "clientId": "5f983a52e70dc4baacf816ca79f915f6",
+            "type": "server_side_app",
+            "redirectUri": "http://localhost"
+        },
+        "repository": {
+            "provider": "github",
+            "name": "ngsmooth004/Goa-game",
+            "branch": "main"
+        },
+        "widgets": {
+            "exYIi7SSrM": {
+                "url": "https://youtu.be/0bAVd9jJE2Q",
+                "placement": "fullscreen",
+                "initialState": ""
+            },
+            "n2KLVSyLQ3": {
+                "url": "https://youtu.be/0bAVd9jJE2Q",
+                "placement": "fullscreen",
+                "initialState": ""
+            }
+        }
+    }
 }
